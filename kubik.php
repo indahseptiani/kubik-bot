@@ -10,12 +10,12 @@ require_once("sdata-modules.php");
 
 
 ##############################################################################################################
-$config['deviceCode'] 		= '3551230xxxxxxx';
-$config['tk'] 				= 'ACGmNhoexxxxxx';
-$config['token'] 			= '35a7oDTxxxxxxx';
-$config['uuid'] 			= 'abdacad4xxxxxx4';
-$config['sign'] 			= '12988158bxxxxxx';
-$config['android_id'] 		= 'a28a65fbbxxxxxx';
+$config['deviceCode'] 		= '869269023361703';
+$config['tk'] 				= 'ACE8NN_UexNL0YkL9kZ99x95nUJs_zQE_mdxdHRodw';
+$config['token'] 			= 'f683xOQHJNL9J52UyfZJAx9qh9mQ_GOsffx60fbbSfrO_fYI0H83-17FpqDuSFGtnCUxVOltPcdAVSk';
+$config['uuid'] 			= 'ff2d7a24d70348988e0d80fa9918ddea';
+$config['sign'] 			= '6a90539c3b08917e8f131fd0d4704a37';
+$config['android_id'] 		= '5dcc316f32af5ed2';
 ##############################################################################################################
 
 
